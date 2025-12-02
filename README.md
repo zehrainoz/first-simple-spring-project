@@ -20,5 +20,5 @@ This project demonstrates basic **CRUD functionality** and a simple **frontend u
 ---
 
 ## 📸 Screenshot
-![Final Project Screenshot](C:\Users\zehra\Pictures\Screenshots\final.png)
+<img width="1901" height="901" alt="final" src="https://github.com/user-attachments/assets/de996610-0668-49ed-9cbf-51a3c5898d5e" />
 
